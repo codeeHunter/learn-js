@@ -1,0 +1,1 @@
+let earth, userName;
